@@ -38,5 +38,5 @@ Uzbek — Fluent
 
 Contact | Контакты
 
-GitHub: https://github.com/Odil-QA
-LinkedIn: www.linkedin.com/in/odildzhon-ablakulov-6a4a7529a
+- **GitHub:** [Odil-QA](https://github.com/Odil-QA)
+- **LinkedIn:** [Odil Abulakulov](https://www.linkedin.com/in/odildzhon-ablakulov-6a4a7529a/)
