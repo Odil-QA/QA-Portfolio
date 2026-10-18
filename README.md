@@ -7,22 +7,34 @@ I am a beginner in software testing, learning Manual QA and practicing web appli
 Skills | Навыки
 
 Manual Testing
+
 Test Cases and Checklists
+
 Bug Reporting
+
 Web Application Testing
+
 API Testing with Postman
+
 Cross-browser Testing
+
 Chrome DevTools
-Qase.io
+
+Qase.io 
 
 
 Tools | Инструменты
 
+
 Postman
+
 Qase.io
+
 Trello
+
 Chrome DevTools
-GitHub
+
+GitHub 
 
 Projects | Проекты
 
@@ -36,8 +48,11 @@ Manual testing of an online electronics store. Test documentation, functional ch
 Languages | Языки
 
 Russian — Fluent
+
 English — Fluent
+
 Persian — Fluent
+
 Uzbek — Fluent
 
 
